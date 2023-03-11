@@ -1,4 +1,20 @@
-h1 {background-color:#6495ed;}
+/* h1 {background-color:#6495ed;}
 p {background-color:#e0ffff;}
-div {background-color:#b0c4de}
+div {background-color:#b0c4de} */
+/* body{
+    background-image: url(../images/logo.JPG);
+    /* background-repeat: no-repeat; */
 
+#zhu{
+    width:980px;
+    height:292px;
+    margin:0 auto;
+    padding-top: 170px;
+}
+#zhu .pic{
+    width: 916px;
+    height: 260px;
+    margin: 0 auto;
+}
+
+#zhu .pic img{margin-left: 56px;}
